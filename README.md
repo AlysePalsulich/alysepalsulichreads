@@ -6,17 +6,17 @@ In this repository is a MERN stack website. The server side connects to a MongoD
 
 ## Future Steps
 
-# Home page
+### Home page
 
 Add about me home page with sub sections of reading/writing.
 
-# Navbar
+### Navbar
 
-# Link Goodreads
+### Link Goodreads
 
-# Link Social Media
+### Link Social Media
 
-# Blog flow page
+### Blog flow page
 
 ## Available Scripts
 
