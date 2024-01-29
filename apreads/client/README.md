@@ -1,4 +1,4 @@
-# Atlas and Archer README
+# Client README
 
 ## Available Scripts
 
