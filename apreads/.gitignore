@@ -1,2 +1,2 @@
 # Ignore environment file
-./server/.env
+.env
